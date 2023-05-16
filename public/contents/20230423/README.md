@@ -11,4 +11,4 @@ tags: ["タグ2"]
 
 ## 画像
 
-![サンプルalt](img1.png)
+![ECC Pizza](marugherita.jpg)
