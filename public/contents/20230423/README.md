@@ -1,7 +1,7 @@
 ---
-title: "投稿サンプル１"
-date: "2023/05/09"
-visual: "img1.png"
+title: "ECC Pizza"
+date: "2023/05/16"
+visual: "margherita.jpg"
 tags: ["タグ2"]
 ---
 
